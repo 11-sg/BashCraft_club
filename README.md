@@ -1,17 +1,23 @@
 # BashCraft_club
 
-Project Overview
+Project Overview<br>
 A landing page that showcases the club's previous and upcoming events pf BashCraft Club.
-
+<br>
 Technologies Used
+<br>
 
 HTML, CSS, JavaScript
+<br>
 Bootstrap
- 
+ <br>
+
+Website:
+<br>
+https://11-sg.github.io/BashCraft_club/
+<br>
 Overview
-![image](https://github.com/user-attachments/assets/be317d6b-968f-401e-a5c9-11ae40ee73c2)
-
-
+![alt text](image.png)
+<br>
 Contact
-Name:Sahil Gupta
-Email: sg4242674@gmail.com
+<br>Name:Sahil Gupta
+<br>Email: sg4242674@gmail.com
