@@ -9,7 +9,8 @@ HTML, CSS, JavaScript
 Bootstrap
  
 Overview
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/be317d6b-968f-401e-a5c9-11ae40ee73c2)
+
 
 Contact
 Name:Sahil Gupta
